@@ -8,7 +8,7 @@
     "description": "A vibrant and flavorful plate featuring perfectly grilled seasonal vegetables, fresh herbs, and a dollop of homemade pesto.",
     "ingredients": ["Zucchini", "Bell Peppers", "Cherry Tomatoes", "Basil Pesto", "Olive Oil"],
     "isAvailable": true,
-    "imageURL": "placeholder/grilled_veggie_pesto.jpg"
+    "imageURL": "https://i.ibb.co.com/8nzy7nLT/Grilled-Veggie-Pesto-Plate.jpg"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "description": "A light and healthy, protein-packed breakfast bowl with scrambled tofu, turmeric, and sautéed garden greens.",
     "ingredients": ["Tofu", "Turmeric", "Spinach", "Onion", "Quinoa"],
     "isAvailable": true,
-    "imageURL": "placeholder/tofu_scramble.jpg"
+    "imageURL": "https://i.ibb.co.com/dsFw1WHY/Savory-Tofu-Scramble-Bowl.jpg"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "description": "Juicy chicken legs roasted with fresh lemon, rosemary, and thyme, served with blistered cherry tomatoes.",
     "ingredients": ["Chicken Legs", "Lemon", "Rosemary", "Thyme", "Garlic"],
     "isAvailable": true,
-    "imageURL": "placeholder/roasted_chicken.jpg"
+    "imageURL": "https://i.ibb.co.com/d0NrhB7z/Lemon-Herb-Roasted-Chicken.jpg"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "description": "A refreshing bowl of mixed tropical fruits, topped with Greek yogurt and a sprinkle of granola.",
     "ingredients": ["Yogurt", "Pineapple", "Mango", "Kiwi", "Granola"],
     "isAvailable": true,
-    "imageURL": "placeholder/fruit_yogurt_bowl.jpg"
+    "imageURL": "https://i.ibb.co.com/QFKqyGmv/Tropical-Fruit-Yogurt-Bowl.jpg"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "description": "A balanced meal featuring flaked salmon, mixed greens, quinoa, and a light citrus vinaigrette.",
     "ingredients": ["Salmon", "Quinoa", "Kale", "Edamame", "Carrots"],
     "isAvailable": true,
-    "imageURL": "placeholder/salmon_quinoa_plate.jpg"
+    "imageURL": "https://i.ibb.co.com/d4Cb2H8c/Salmon-Quinoa-Power-Plate.jpg"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "description": "Stir-fried noodles with a mix of colorful vegetables and a savory, moderately spicy sauce, served in a black bowl.",
     "ingredients": ["Egg Noodles", "Bok Choy", "Mushrooms", "Chili Sauce", "Sesame Seeds"],
     "isAvailable": true,
-    "imageURL": "placeholder/asian_noodle_medley.jpg"
+    "imageURL": "https://i.ibb.co.com/fzkSZHLy/Spicy-Asian-Noodle-Medley.jpg"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "description": "Fluffy buttermilk pancakes topped with a generous assortment of fresh mixed berries and maple syrup.",
     "ingredients": ["Flour", "Milk", "Eggs", "Mixed Berries", "Maple Syrup"],
     "isAvailable": true,
-    "imageURL": "placeholder/berry_pancakes.jpg"
+    "imageURL": "https://i.ibb.co.com/ymrz9HY6/Classic-Berry-Pancakes.jpg"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "description": "A warm flour tortilla filled with grilled chicken strips, sautéed peppers, onions, and a touch of sour cream.",
     "ingredients": ["Tortilla", "Chicken Breast", "Bell Peppers", "Onion", "Spices"],
     "isAvailable": true,
-    "imageURL": "placeholder/chicken_fajita_wrap.jpg"
+    "imageURL": "https://i.ibb.co.com/tTNhWCsk/Chicken-Fajita-Wrap.jpg"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "description": "A warm, comforting, and nutrient-rich soup made with brown lentils, carrots, celery, and savory broth.",
     "ingredients": ["Lentils", "Vegetable Broth", "Carrots", "Celery", "Tomato Paste"],
     "isAvailable": true,
-    "imageURL": "placeholder/lentil_soup.jpg"
+    "imageURL": "https://i.ibb.co.com/xqbzT8hc/Hearty-Lentil-Soup.jpg"
   },
   {
     "id": 10,
@@ -107,6 +107,6 @@
     "description": "Thick-cut sourdough toast topped with creamy mashed avocado, everything bagel seasoning, and a fried egg.",
     "ingredients": ["Sourdough Bread", "Avocado", "Egg", "Everything Seasoning", "Chili Flakes"],
     "isAvailable": true,
-    "imageURL": "placeholder/avocado_toast.jpg"
+    "imageURL": "https://i.ibb.co.com/20F56cPF/Avocado-Toast-Deluxe.jpg"
   }
 ]
