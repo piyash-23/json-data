@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Veggie & Pesto Plate",
+    "category": "Breakfast Food",
+    "ratings": 4.5,
+    "price": 230,
+    "description": "A vibrant and flavorful plate featuring perfectly grilled seasonal vegetables, fresh herbs, and a dollop of homemade pesto.",
+    "ingredients": ["Zucchini", "Bell Peppers", "Cherry Tomatoes", "Basil Pesto", "Olive Oil"],
+    "isAvailable": true,
+    "imageURL": "placeholder/grilled_veggie_pesto.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Savory Tofu Scramble Bowl",
+    "category": "Health Breakfast",
+    "ratings": 4.3,
+    "price": 230,
+    "description": "A light and healthy, protein-packed breakfast bowl with scrambled tofu, turmeric, and sautéed garden greens.",
+    "ingredients": ["Tofu", "Turmeric", "Spinach", "Onion", "Quinoa"],
+    "isAvailable": true,
+    "imageURL": "placeholder/tofu_scramble.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lemon-Herb Roasted Chicken",
+    "category": "Breakfast Food",
+    "ratings": 4.8,
+    "price": 230,
+    "description": "Juicy chicken legs roasted with fresh lemon, rosemary, and thyme, served with blistered cherry tomatoes.",
+    "ingredients": ["Chicken Legs", "Lemon", "Rosemary", "Thyme", "Garlic"],
+    "isAvailable": true,
+    "imageURL": "placeholder/roasted_chicken.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tropical Fruit & Yogurt Bowl",
+    "category": "Breakfast Food",
+    "ratings": 4.7,
+    "price": 230,
+    "description": "A refreshing bowl of mixed tropical fruits, topped with Greek yogurt and a sprinkle of granola.",
+    "ingredients": ["Yogurt", "Pineapple", "Mango", "Kiwi", "Granola"],
+    "isAvailable": true,
+    "imageURL": "placeholder/fruit_yogurt_bowl.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Salmon Quinoa Power Plate",
+    "category": "Breakfast Food",
+    "ratings": 4.6,
+    "price": 230,
+    "description": "A balanced meal featuring flaked salmon, mixed greens, quinoa, and a light citrus vinaigrette.",
+    "ingredients": ["Salmon", "Quinoa", "Kale", "Edamame", "Carrots"],
+    "isAvailable": true,
+    "imageURL": "placeholder/salmon_quinoa_plate.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Spicy Asian Noodle Medley",
+    "category": "Dinner/Lunch",
+    "ratings": 4.4,
+    "price": 230,
+    "description": "Stir-fried noodles with a mix of colorful vegetables and a savory, moderately spicy sauce, served in a black bowl.",
+    "ingredients": ["Egg Noodles", "Bok Choy", "Mushrooms", "Chili Sauce", "Sesame Seeds"],
+    "isAvailable": true,
+    "imageURL": "placeholder/asian_noodle_medley.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Classic Berry Pancakes",
+    "category": "Breakfast Food",
+    "ratings": 4.2,
+    "price": 210,
+    "description": "Fluffy buttermilk pancakes topped with a generous assortment of fresh mixed berries and maple syrup.",
+    "ingredients": ["Flour", "Milk", "Eggs", "Mixed Berries", "Maple Syrup"],
+    "isAvailable": true,
+    "imageURL": "placeholder/berry_pancakes.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Chicken Fajita Wrap",
+    "category": "Lunch/Dinner",
+    "ratings": 4.1,
+    "price": 250,
+    "description": "A warm flour tortilla filled with grilled chicken strips, sautéed peppers, onions, and a touch of sour cream.",
+    "ingredients": ["Tortilla", "Chicken Breast", "Bell Peppers", "Onion", "Spices"],
+    "isAvailable": true,
+    "imageURL": "placeholder/chicken_fajita_wrap.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hearty Lentil Soup",
+    "category": "Health Food",
+    "ratings": 4.0,
+    "price": 190,
+    "description": "A warm, comforting, and nutrient-rich soup made with brown lentils, carrots, celery, and savory broth.",
+    "ingredients": ["Lentils", "Vegetable Broth", "Carrots", "Celery", "Tomato Paste"],
+    "isAvailable": true,
+    "imageURL": "placeholder/lentil_soup.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Avocado Toast Deluxe",
+    "category": "Breakfast Food",
+    "ratings": 4.9,
+    "price": 230,
+    "description": "Thick-cut sourdough toast topped with creamy mashed avocado, everything bagel seasoning, and a fried egg.",
+    "ingredients": ["Sourdough Bread", "Avocado", "Egg", "Everything Seasoning", "Chili Flakes"],
+    "isAvailable": true,
+    "imageURL": "placeholder/avocado_toast.jpg"
+  }
+]
