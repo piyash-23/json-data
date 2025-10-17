@@ -7,7 +7,7 @@
     "brand": "Apple",
     "description": "The latest professional-grade smartphone featuring the A17 Bionic chip and a triple-lens camera system. Built with titanium for ultimate durability.",
     "in_stock": true,
-    "image_url": "/assets/images/phones/iphone15pro_silver.jpg",
+    "image_url": "https://images.unsplash.com/photo-1695639509828-d4260075e370?ixlib=rb-4.1.0&w=700",
     "average_rating": 4.8,
     "customer_ratings": [5, 5, 4, 5, 5]
   },
@@ -19,7 +19,7 @@
     "brand": "Apple",
     "description": "A powerful and affordable phone with a dual-camera system and all-day battery life. Great value for essential features.",
     "in_stock": true,
-    "image_url": "/assets/images/phones/iphone14_blue.jpg",
+    "image_url": "https://images.unsplash.com/photo-1680776785024-5223d7a75ea8?ixlib=rb-4.1.0&w=700",
     "average_rating": 4.5,
     "customer_ratings": [5, 4, 5, 4, 5]
   },
@@ -31,7 +31,7 @@
     "brand": "TechTime",
     "description": "Rugged and capable, built for endurance athletes. Features advanced GPS and a massive, bright display.",
     "in_stock": true,
-    "image_url": "/assets/images/watches/watch_ultra_black.jpg",
+    "image_url": "https://images.unsplash.com/photo-1722153768985-9286321b8769?ixlib=rb-4.1.0&w=700",
     "average_rating": 4.7,
     "customer_ratings": [5, 5, 4, 5]
   },
@@ -43,7 +43,7 @@
     "brand": "AquaFit",
     "description": "Waterproof fitness tracker with heart rate monitor and sleep tracking. Perfect for everyday training.",
     "in_stock": false,
-    "image_url": "/assets/images/watches/sportwatchx_red.jpg",
+    "image_url": "https://images.unsplash.com/photo-1700647153994-aece6c354a54?ixlib=rb-4.1.0&w=700",
     "average_rating": 4.2,
     "customer_ratings": [4, 4, 5, 4]
   },
@@ -55,7 +55,7 @@
     "brand": "Apple",
     "description": "The pocket-sized powerhouse. Offers the speed of the A15 Bionic chip in a compact and comfortable design.",
     "in_stock": true,
-    "image_url": "/assets/images/phones/iphone13mini_pink.jpg",
+    "image_url": "https://images.unsplash.com/photo-1676608423600-aff2d8cd9c4d?ixlib=rb-4.1.0&w=700",
     "average_rating": 4.3,
     "customer_ratings": [4, 4, 5, 4]
   },
@@ -67,7 +67,7 @@
     "brand": "SolidGear",
     "description": "A robust tactical smartwatch with extreme shock resistance and a long-lasting battery for field operations.",
     "in_stock": true,
-    "image_url": "/assets/images/watches/heavywatch_green.jpg",
+    "image_url": "https://images.unsplash.com/photo-1758348844355-2ef28345979d?ixlib=rb-4.1.0&w=700",
     "average_rating": 4.6,
     "customer_ratings": [5, 5, 4, 5]
   },
