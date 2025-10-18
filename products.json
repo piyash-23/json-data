@@ -1,362 +1,282 @@
 [
   {
-    "id": 1,
-    "product_name": "iPhone 15 Pro",
-    "price": 1099,
-    "category": "Phones",
-    "brand": "Apple",
-    "description": "The latest professional-grade smartphone featuring the A17 Bionic chip and a triple-lens camera system. Built with titanium for ultimate durability.",
-    "in_stock": true,
-    "image_url": "https://images.unsplash.com/photo-1695639509828-d4260075e370?ixlib=rb-4.1.0&w=700",
-    "average_rating": 4.8,
-    "customer_ratings": [5, 5, 4, 5, 5]
+    "id": "1",
+    "name": "iPhone 10",
+    "category": "phone",
+    "price": 980,
+    "description": "Apple iPhone 10 with sleek design and powerful performance.",
+    "rating": 4.5,
+    "reviews": 124,
+    "additional_info": {
+      "color": "Silver",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg"
   },
   {
-    "id": 2,
-    "product_name": "iPhone 14",
-    "price": 799,
-    "category": "Phones",
-    "brand": "Apple",
-    "description": "A powerful and affordable phone with a dual-camera system and all-day battery life. Great value for essential features.",
-    "in_stock": true,
-    "image_url": "https://images.unsplash.com/photo-1680776785024-5223d7a75ea8?ixlib=rb-4.1.0&w=700",
-    "average_rating": 4.5,
-    "customer_ratings": [5, 4, 5, 4, 5]
+    "id": "2",
+    "name": "iPhone 11",
+    "category": "phone",
+    "price": 1100,
+    "description": "Apple iPhone 11 with improved camera and battery life.",
+    "rating": 4.7,
+    "reviews": 212,
+    "additional_info": {
+      "color": "Black",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.unsplash.com/photo-1574719128055-f4f84a835363?ixlib=rb-4.1.0&w=800"
   },
   {
-    "id": 3,
-    "product_name": "Smart Watch Ultra",
-    "price": 399,
-    "category": "Watches",
-    "brand": "TechTime",
-    "description": "Rugged and capable, built for endurance athletes. Features advanced GPS and a massive, bright display.",
-    "in_stock": true,
-    "image_url": "https://images.unsplash.com/photo-1722153768985-9286321b8769?ixlib=rb-4.1.0&w=700",
-    "average_rating": 4.7,
-    "customer_ratings": [5, 5, 4, 5]
+    "id": "3",
+    "name": "iPhone 8",
+    "category": "phone",
+    "price": 780,
+    "description": "Apple iPhone 8 with classic design and reliable performance.",
+    "rating": 4.3,
+    "reviews": 89,
+    "additional_info": {
+      "color": "White",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.unsplash.com/photo-1510698453013-dd490a55cb4e?ixlib=rb-4.1.0&w=700"
   },
   {
-    "id": 4,
-    "product_name": "Sport Watch X",
-    "price": 199,
-    "category": "Watches",
-    "brand": "AquaFit",
-    "description": "Waterproof fitness tracker with heart rate monitor and sleep tracking. Perfect for everyday training.",
-    "in_stock": false,
-    "image_url": "https://images.unsplash.com/photo-1700647153994-aece6c354a54?ixlib=rb-4.1.0&w=700",
-    "average_rating": 4.2,
-    "customer_ratings": [4, 4, 5, 4]
+    "id": "4",
+    "name": "Pink Watch",
+    "category": "watch",
+    "price": 870,
+    "description": "Elegant pink smartwatch with fitness tracking features.",
+    "rating": 4.6,
+    "reviews": 98,
+    "additional_info": {
+      "color": "Pink",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.unsplash.com/photo-1663802516178-d63dd2e5301a?ixlib=rb-4.1.0&w=770"
   },
   {
-    "id": 5,
-    "product_name": "iPhone 13 mini",
-    "price": 699,
-    "category": "Phones",
-    "brand": "Apple",
-    "description": "The pocket-sized powerhouse. Offers the speed of the A15 Bionic chip in a compact and comfortable design.",
-    "in_stock": true,
-    "image_url": "https://images.unsplash.com/photo-1676608423600-aff2d8cd9c4d?ixlib=rb-4.1.0&w=700",
-    "average_rating": 4.3,
-    "customer_ratings": [4, 4, 5, 4]
+    "id": "5",
+    "name": "Heavy Watch",
+    "category": "watch",
+    "price": 680,
+    "description": "Smartwatch with durable build and extended battery life.",
+    "rating": 4.2,
+    "reviews": 67,
+    "additional_info": {
+      "color": "Black",
+      "brand": "Samsung"
+    },
+    "image_url": "https://images.unsplash.com/photo-1564496954841-092e3a3bda16?ixlib=rb-4.1.0&w=900"
   },
   {
-    "id": 6,
-    "product_name": "Heavy Watch Pro",
-    "price": 249,
-    "category": "Watches",
-    "brand": "SolidGear",
-    "description": "A robust tactical smartwatch with extreme shock resistance and a long-lasting battery for field operations.",
-    "in_stock": true,
-    "image_url": "https://images.unsplash.com/photo-1758348844355-2ef28345979d?ixlib=rb-4.1.0&w=700",
-    "average_rating": 4.6,
-    "customer_ratings": [5, 5, 4, 5]
-  },
-  {
-    "id": 7,
-    "product_name": "Spotted Watch Blue",
-    "price": 129,
-    "category": "Watches",
-    "brand": "TimeWear",
-    "description": "A stylish, casual watch with a comfortable silicone strap and a simple, analog display.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/spottedwatch_blue.jpg",
-    "average_rating": 3.9,
-    "customer_ratings": [4, 3, 4, 4]
-  },
-  {
-    "id": 8,
-    "product_name": "iPhone 15",
-    "price": 899,
-    "category": "Phones",
-    "brand": "Apple",
-    "description": "The standard iPhone 15 model featuring the Dynamic Island and an upgraded camera sensor for better low-light photos.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/iphone15_black.jpg",
-    "average_rating": 4.6,
-    "customer_ratings": [5, 4, 5, 5]
-  },
-  {
-    "id": 9,
-    "product_name": "Luxury Smartwatch",
-    "price": 499,
-    "category": "Watches",
-    "brand": "Elegance",
-    "description": "Premium finish with a stainless steel casing and sapphire glass. Combines smart features with classic design.",
-    "in_stock": false,
-    "image_url": "/assets/images/watches/luxurywatch_gold.jpg",
-    "average_rating": 4.9,
-    "customer_ratings": [5, 5, 5, 5]
-  },
-  {
-    "id": 10,
-    "product_name": "Budget Phone A",
-    "price": 299,
-    "category": "Phones",
-    "brand": "CommCorp",
-    "description": "An essential smartphone for basic communication and social media. Reliable performance at an unbeatable price.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/budgetphone_a.jpg",
-    "average_rating": 3.5,
-    "customer_ratings": [3, 4, 3, 4]
-  },
-  {
-    "id": 11,
-    "product_name": "Durable Watch 5",
-    "price": 179,
-    "category": "Watches",
-    "brand": "OutDoor",
-    "description": "Designed for hiking and camping with altimeter, barometer, and compass functions. Extreme temperature resistance.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/durablewatch_orange.jpg",
-    "average_rating": 4.1,
-    "customer_ratings": [4, 4, 4, 4, 5]
-  },
-  {
-    "id": 12,
-    "product_name": "Phone X Classic",
-    "price": 499,
-    "category": "Phones",
-    "brand": "CommCorp",
-    "description": "A well-rounded mid-range phone offering a great screen and fast charging. A popular choice for all users.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/phone_x_classic.jpg",
-    "average_rating": 4.0,
-    "customer_ratings": [4, 4, 4, 4]
-  },
-  {
-    "id": 13,
-    "product_name": "Sleek Watch Silver",
-    "price": 289,
-    "category": "Watches",
-    "brand": "Elegance",
-    "description": "Minimalist design with a thin profile and polished silver finish. Ideal for formal or professional settings.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/sleekwatch_silver.jpg",
-    "average_rating": 4.4,
-    "customer_ratings": [4, 5, 4, 4, 5]
-  },
-  {
-    "id": 14,
-    "product_name": "iPhone SE 2022",
-    "price": 429,
-    "category": "Phones",
-    "brand": "Apple",
-    "description": "The fastest SE yet, powered by the A15 Bionic chip. The classic form factor with modern performance.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/iphonese_red.jpg",
-    "average_rating": 4.0,
-    "customer_ratings": [4, 4, 4, 4]
-  },
-  {
-    "id": 15,
-    "product_name": "Run Tracker Watch",
-    "price": 99,
-    "category": "Watches",
-    "brand": "AquaFit",
-    "description": "Basic, high-accuracy watch for tracking distance, pace, and calories during runs. Lightweight and affordable.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/runtacker_black.jpg",
-    "average_rating": 3.8,
-    "customer_ratings": [4, 3, 4, 4]
-  },
-  {
-    "id": 16,
-    "product_name": "Premium Phone Z",
-    "price": 1299,
-    "category": "Phones",
-    "brand": "TechTime",
-    "description": "Our flagship phone with a 200MP camera and revolutionary battery technology. The ultimate device for power users.",
-    "in_stock": false,
-    "image_url": "/assets/images/phones/premiumphone_z.jpg",
-    "average_rating": 4.9,
-    "customer_ratings": [5, 5, 5, 5]
-  },
-  {
-    "id": 17,
-    "product_name": "Midnight Smartwatch",
-    "price": 329,
-    "category": "Watches",
-    "brand": "SolidGear",
-    "description": "Sleek black aesthetic with advanced health monitoring, including ECG and blood oxygen sensing.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/midnightwatch_dark.jpg",
-    "average_rating": 4.5,
-    "customer_ratings": [5, 4, 5, 4]
-  },
-  {
-    "id": 18,
-    "product_name": "Classic Phone 9",
-    "price": 349,
-    "category": "Phones",
-    "brand": "CommCorp",
-    "description": "Simple, reliable phone with a focus on ease-of-use and longevity. Great for first-time smartphone owners.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/classicphone_9.jpg",
-    "average_rating": 3.7,
-    "customer_ratings": [4, 3, 4, 3, 4]
-  },
-  {
-    "id": 19,
-    "product_name": "Pilot's Watch Black",
-    "price": 599,
-    "category": "Watches",
-    "brand": "TimeWear",
-    "description": "Aviation-inspired watch with a chronograph function and a bold, easy-to-read dial. Durable leather strap.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/pilotswatch_black.jpg",
-    "average_rating": 4.7,
-    "customer_ratings": [5, 5, 4, 5]
-  },
-  {
-    "id": 20,
-    "product_name": "iPhone 15 Pro Max",
-    "price": 1199,
-    "category": "Phones",
-    "brand": "Apple",
-    "description": "The largest and most advanced iPhone, offering the best battery life and a 5x optical zoom camera.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/iphone15promax_gold.jpg",
-    "average_rating": 4.9,
-    "customer_ratings": [5, 5, 5, 5, 5]
-  },
-  {
-    "id": 21,
-    "product_name": "Lightweight Phone C",
-    "price": 599,
-    "category": "Phones",
-    "brand": "CommCorp",
-    "description": "Ultra-thin and feather-light design without compromising on screen quality or processing speed.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/lightweightphone_c.jpg",
-    "average_rating": 4.2,
-    "customer_ratings": [4, 4, 5, 4]
-  },
-  {
-    "id": 22,
-    "product_name": "Heavy Duty Phone",
+    "id": "6",
+    "name": "Spotted Watch",
+    "category": "watch",
     "price": 750,
-    "category": "Phones",
-    "brand": "OutDoor",
-    "description": "Rugged phone with IP68 water and dust resistance, designed to withstand drops and extreme conditions.",
-    "in_stock": false,
-    "image_url": "/assets/images/phones/heavydutyphone_camo.jpg",
-    "average_rating": 4.4,
-    "customer_ratings": [5, 4, 4, 4, 5]
+    "description": "Trendy watch with a dotted display and comfortable strap.",
+    "rating": 4.4,
+    "reviews": 54,
+    "additional_info": {
+      "color": "Black",
+      "brand": "Green"
+    },
+    "image_url": "https://images.unsplash.com/photo-1599143844678-6f232bb16ae6?ixlib=rb-4.1.0&w=750"
   },
   {
-    "id": 23,
-    "product_name": "Digital Fitness Watch",
-    "price": 79,
-    "category": "Watches",
-    "brand": "AquaFit",
-    "description": "An entry-level digital watch focused purely on step counting and basic timekeeping.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/digitalwatch_pink.jpg",
-    "average_rating": 3.5,
-    "customer_ratings": [3, 4, 3, 4]
+    "id": "7",
+    "name": "Black Watch",
+    "category": "watch",
+    "price": 650,
+    "description": "Stylish black smartwatch with health monitoring.",
+    "rating": 4.1,
+    "reviews": 43,
+    "additional_info": {
+      "color": "Black",
+      "brand": "Samsung"
+    },
+    "image_url": "https://images.unsplash.com/photo-1599143844678-6f232bb16ae6?ixlib=rb-4.1.0&w=750"
   },
   {
-    "id": 24,
-    "product_name": "Ceramic Watch White",
-    "price": 450,
-    "category": "Watches",
-    "brand": "Elegance",
-    "description": "Luxury watch with a scratch-resistant ceramic case and bracelet. Modern, clean, and highly durable.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/ceramicwatch_white.jpg",
-    "average_rating": 4.6,
-    "customer_ratings": [5, 5, 4, 5]
+    "id": "8",
+    "name": "iPhone 13",
+    "category": "phone",
+    "price": 1500,
+    "description": "The latest iPhone 13 with A15 Bionic chip and advanced camera.",
+    "rating": 4.9,
+    "reviews": 356,
+    "additional_info": {
+      "color": "Graphite",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?ixlib=rb-4.1.0&w=1169"
   },
   {
-    "id": 25,
-    "product_name": "Pro Gaming Phone",
-    "price": 999,
-    "category": "Phones",
-    "brand": "TechTime",
-    "description": "Optimized for mobile gaming with a 144Hz display, cooling system, and shoulder triggers.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/gamingphone_red.jpg",
-    "average_rating": 4.8,
-    "customer_ratings": [5, 5, 5, 4, 5]
+    "id": "9",
+    "name": "iPhone 12 Mini",
+    "category": "phone",
+    "price": 950,
+    "description": "Compact iPhone with high performance in small size.",
+    "rating": 4.6,
+    "reviews": 174,
+    "additional_info": {
+      "color": "Blue",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.unsplash.com/photo-1620722003244-15af93cf42b9?ixlib=rb-4.1.0&w=800"
   },
   {
-    "id": 26,
-    "product_name": "Vintage Analog Watch",
-    "price": 150,
-    "category": "Watches",
-    "brand": "TimeWear",
-    "description": "Classic look with a genuine leather strap and reliable quartz movement. Timeless style for any occasion.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/vintage_analog.jpg",
-    "average_rating": 4.3,
-    "customer_ratings": [4, 5, 4, 4]
+    "id": "10",
+    "name": "Galaxy Watch Active",
+    "category": "watch",
+    "price": 720,
+    "description": "Samsung Galaxy Watch Active with lightweight design.",
+    "rating": 4.3,
+    "reviews": 93,
+    "additional_info": {
+      "color": "Green",
+      "brand": "Samsung"
+    },
+    "image_url": "https://images.unsplash.com/photo-1722152417039-359949e360aa?ixlib=rb-4.1.0&w=900"
   },
   {
-    "id": 27,
-    "product_name": "Kid's Tracker Watch",
-    "price": 59,
-    "category": "Watches",
-    "brand": "SolidGear",
-    "description": "Safe, simple, and colorful watch with GPS tracking and an emergency contact button for peace of mind.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/kidswatch_yellow.jpg",
-    "average_rating": 3.6,
-    "customer_ratings": [3, 4, 4, 3]
+    "id": "11",
+    "name": "iPhone SE",
+    "category": "phone",
+    "price": 600,
+    "description": "Affordable iPhone SE with powerful performance.",
+    "rating": 4.2,
+    "reviews": 76,
+    "additional_info": {
+      "color": "Red",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.unsplash.com/photo-1656150229308-4a633ded9338?ixlib=rb-4.1.0&w=1169"
   },
   {
-    "id": 28,
-    "product_name": "iPhone 14 Plus",
-    "price": 899,
-    "category": "Phones",
-    "brand": "Apple",
-    "description": "The large-screen version of the iPhone 14, providing a great viewing experience and excellent battery life.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/iphone14plus_purple.jpg",
-    "average_rating": 4.5,
-    "customer_ratings": [5, 4, 5, 4]
+    "id": "12",
+    "name": "iPhone XR",
+    "category": "phone",
+    "price": 850,
+    "description": "iPhone XR with large display and Face ID.",
+    "rating": 4.4,
+    "reviews": 130,
+    "additional_info": {
+      "color": "Coral",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.unsplash.com/photo-1592014600126-cdb2cec39b7a?ixlib=rb-4.1.0&w=1121"
   },
   {
-    "id": 29,
-    "product_name": "Explorer GPS Watch",
-    "price": 299,
-    "category": "Watches",
-    "brand": "OutDoor",
-    "description": "High-accuracy GPS watch with offline mapping capabilities, essential for serious adventurers.",
-    "in_stock": true,
-    "image_url": "/assets/images/watches/explorerwatch_grey.jpg",
-    "average_rating": 4.7,
-    "customer_ratings": [5, 5, 4, 5]
+    "id": "13",
+    "name": "Fitness Band Pro",
+    "category": "watch",
+    "price": 300,
+    "description": "Budget-friendly fitness tracker with heart rate monitor.",
+    "rating": 4.0,
+    "reviews": 112,
+    "additional_info": {
+      "color": "Blue",
+      "brand": "Green"
+    },
+    "image_url": "https://images.unsplash.com/photo-1758348844348-acaf8d854665?ixlib=rb-4.1.0&w=1171"
   },
   {
-    "id": 30,
-    "product_name": "Compact Phone S",
-    "price": 399,
-    "category": "Phones",
-    "brand": "CommCorp",
-    "description": "Small, ergonomic phone designed for single-hand use. Perfect for those who prefer a smaller device.",
-    "in_stock": true,
-    "image_url": "/assets/images/phones/compactphone_s.jpg",
-    "average_rating": 3.9,
-    "customer_ratings": [4, 4, 3, 4]
+    "id": "14",
+    "name": "Galaxy S21",
+    "category": "phone",
+    "price": 1200,
+    "description": "Samsung flagship phone with pro-grade camera.",
+    "rating": 4.6,
+    "reviews": 187,
+    "additional_info": {
+      "color": "Phantom Gray",
+      "brand": "Samsung"
+    },
+    "image_url": "https://images.unsplash.com/photo-1677172479994-b61052d5d567?ixlib=rb-4.1.0&w=1170"
+  },
+  {
+    "id": "15",
+    "name": "Galaxy Tab A",
+    "category": "tablet",
+    "price": 400,
+    "description": "Affordable tablet for media and browsing.",
+    "rating": 4.1,
+    "reviews": 59,
+    "additional_info": {
+      "color": "Black",
+      "brand": "Samsung"
+    },
+    "image_url": "https://images.unsplash.com/photo-1620288650879-20db0eb38c05?ixlib=rb-4.1.0&w=1170"
+  },
+  {
+    "id": "16",
+    "name": "iPad Pro",
+    "category": "tablet",
+    "price": 1400,
+    "description": "High-end Apple iPad with M1 chip for professionals.",
+    "rating": 4.9,
+    "reviews": 240,
+    "additional_info": {
+      "color": "Space Gray",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.unsplash.com/photo-1662731340335-e5485bd50268?ixlib=rb-4.1.0&w=1169"
+  },
+  {
+    "id": "17",
+    "name": "AirPods Pro",
+    "category": "accessory",
+    "price": 250,
+    "description": "Wireless noise-canceling earbuds by Apple.",
+    "rating": 4.8,
+    "reviews": 321,
+    "additional_info": {
+      "color": "White",
+      "brand": "Apple"
+    },
+    "image_url": "https://images.unsplash.com/photo-1588156979435-379b9d365296?ixlib=rb-4.1.0&w=1171"
+  },
+  {
+    "id": "18",
+    "name": "Smart Stylus",
+    "category": "accessory",
+    "price": 120,
+    "description": "Smart pen compatible with tablets and smartphones.",
+    "rating": 4.3,
+    "reviews": 47,
+    "additional_info": {
+      "color": "Silver",
+      "brand": "Green"
+    },
+    "image_url": "https://images.unsplash.com/photo-1716363340859-e2a0ab1396a5?ixlib=rb-4.1.0&w=1170"
+  },
+  {
+    "id": "19",
+    "name": "Tablet Keyboard",
+    "category": "accessory",
+    "price": 180,
+    "description": "Magnetic attachable keyboard for tablets.",
+    "rating": 4.4,
+    "reviews": 65,
+    "additional_info": {
+      "color": "Black",
+      "brand": "Samsung"
+    },
+    "image_url": "https://images.unsplash.com/photo-1607452258653-8a9a2eed4669?ixlib=rb-4.1.0&w=700"
+  },
+  {
+    "id": "20",
+    "name": "Smart Stylus",
+    "category": "accessory",
+    "price": 120,
+    "description": "Smart pen compatible with tablets and smartphones.",
+    "rating": 4.3,
+    "reviews": 47,
+    "additional_info": {
+      "color": "Silver",
+      "brand": "Green"
+    },
+    "image_url": "https://images.unsplash.com/photo-1716363340859-e2a0ab1396a5?ixlib=rb-4.1.0&w=1170"
   }
 ]
